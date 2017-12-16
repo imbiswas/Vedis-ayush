@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.roshan.vedis">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Menus.Appetizer" />
+        <activity android:name=".Menus.Soups" />
+        <activity android:name=".Menus.Side_dish" />
+        <activity android:name=".Menus.Salad" />
+        <activity android:name=".Menus.Vegetarian" />
+        <activity android:name=".Menus.Chicken" />
+        <activity android:name=".Menus.Lamb" />
+        <activity android:name=".Menus.Duck" />
+        <activity android:name=".Menus.Fishes" />
+        <activity android:name=".Menus.Rice_dish" />
+        <activity android:name=".Menus.Tandoori_grill" />
+        <activity android:name=".Menus.Deserts" />
+        <activity android:name=".Menus.Cocktail"></activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tageskarte" type="id">Tageskarte</item>
+    <item name="vorspeisen" type="id">Vorspeisen</item>
+    <item name="supen" type="id">Suppen</item>
+    <item name="beilagen" type="id">Beilagen</item>
+    <item name="salate" type="id">Salate</item>
+    <item name="vegetarisch" type="id">Vegetarisch</item>
+    <item name="hühnerfleisch" type="id">Hühnerfleisch</item>
+    <item name="Lammfleisch" type="id">Lammfleisch</item>
+    <item name="Ente" type="id">Ente</item>
+    <item name="Fisch" type="id">Fisch/Scampi</item>
+    <item name="Reisgerichte" type="id">Reisgerichte</item>
+    <item name="Tandoori" type="id">Tandoori Grill</item>
+    <item name="Desserts" type="id">Desserts</item>
+    <item name="Cocktails" type="id">Cocktails</item>
+    
+</resources>
